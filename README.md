@@ -9,4 +9,4 @@ Hey! 👋<br>I'm currently pursuing a Master's in Information Technology at Ariz
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayeshNaidu&icon=0&color=0)](https://visitcount.itsvg.in)
+
